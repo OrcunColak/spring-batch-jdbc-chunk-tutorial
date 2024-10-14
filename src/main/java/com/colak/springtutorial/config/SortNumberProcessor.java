@@ -1,4 +1,4 @@
-package com.colak.springbatchtasklettutorial.config;
+package com.colak.springtutorial.config;
 
 import org.springframework.batch.item.ItemProcessor;
 
